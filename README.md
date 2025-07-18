@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Atharva Thakare (Known as "AT117" online) <br> I'm a Flutter Developer, from Nashik, India</h2>
+<h2 align="left">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">! My name is Atharva Thakare (Known as "AT117" online) <br> I'm a Flutter Developer, from Nashik, India</h2>
 
 ###
 <br>
