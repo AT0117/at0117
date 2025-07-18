@@ -1,15 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Atharva+Thakare;I'm+a+Flutter+Developer;)](https://git.io/typing-svg)
-<h4>📌Nashik, India</h4>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Atharva+Thakare;I'm+a+Flutter+Developer;📌+Nashik,+India)](https://git.io/typing-svg)
 ###
-<br>
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=at0117&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=at0117&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<br><br><br>
+<img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height = "300px" width = "600px"> 
 </div>
 
 ###
-
 
 ###
 <br>
