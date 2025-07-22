@@ -28,6 +28,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000" height="30" alt="php logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" height="30" alt="c++ logo"  />
