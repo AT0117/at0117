@@ -42,7 +42,7 @@
   <a href = "mailto:atharva117@hotmail.com" target = "_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href = "https://discord.com/users/992637366147764274" target = "_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=at0117&label=Profile%20views&color=0e75b6&style=flat" alt="at0117" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=at0117&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="at0117" /> </p>
 </div>
 
 ###
