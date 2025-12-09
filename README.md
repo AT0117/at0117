@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Atharva+Thakare;I'm+a+Flutter+Developer;📌+Nashik,+India)](https://git.io/typing-svg)
 ###
 <div align="left">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={at0117}&theme={2077}&exclude={exclude}" height="150" alt="languages graph" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={at0117}&theme={2077}&exclude={}" height="150" alt="languages graph" />
 <br><br><br>
 <img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height = "250px" width = "500px"> 
 </div>
